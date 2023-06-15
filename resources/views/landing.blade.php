@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>LilyShop - One Stop Shopping</title>
+        <title>AutoponicShop - One Stop Shopping</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap icons-->
@@ -17,7 +17,7 @@
         <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container px-4 px-lg-5">
-            <a class="navbar-brand" href="#!">LilyShop</a>
+            <a class="navbar-brand" href="#!">AutoponicShop</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -58,16 +58,17 @@
         </div>
     </nav>
         <!-- carousel-->
+
         <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="3000">
-      <img src="https://picsum.photos/1000/300.webp?random=1" class="d-block w-100" alt="gambar1">
+     <img src="https://www.ikons.id/wp-content/uploads/2018/01/hydroponics-lead-carousel.jpg" class="d-block w-100" alt="gambar1">
     </div>
     <div class="carousel-item" data-bs-interval="3000">
-      <img src="https://picsum.photos/seed/picsum/1000/300.webp?random=2" class="d-block w-100" alt="gambar2">
+     <img src="https://hydrilla.in/store/skin/frontend/tv_bigboom_package/tv_bigboom2/images/slider/hydroponics-systems.jpg" class="d-block w-100" alt="gambar1">
     </div>
     <div class="carousel-item" data-bs-interval="3000">
-      <img src="https://picsum.photos/1000/300.webp?random=3" class="d-block w-100" alt="gambar3">
+     <img src="https://hydrilla.in/skin/frontend/tv_bigboom_package/tv_bigboom2/images/slider/Hydroponics-NFT.png" class="d-block w-100" alt="gambar1">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
@@ -79,6 +80,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+
         <!-- Section-->
         <section class="py-5">
             <div class="container px-4 px-lg-5 mt-5">
@@ -86,14 +88,14 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno6-4g-oversea/middlebanner/Homepage-middle-banner2-640-x-480.jpg.thumb.webp" alt="..." />
+                            <img class="card-img-top" src="https://st4.depositphotos.com/27218856/39173/i/600/depositphotos_391738252-stock-photo-close-pak-choi-harvested-hydroponic.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">Fancy Product</h5>
                                     <!-- Product price-->
-                                    $40.00 - $80.00
+                                    Rp 600.000,00 - Rp 800.000,00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -107,7 +109,7 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://cdn.antaranews.com/cache/800x533/2022/08/05/YUGJY7UJY7UJJJ2022072009202207201055231658326864_1200.jpg" alt="..." />
+                            <img class="card-img-top" src="https://st2.depositphotos.com/6892822/11585/i/450/depositphotos_115856818-stock-photo-vegetable-seedlings-hydroponic-plants-in.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
@@ -122,8 +124,8 @@
                                         <div class="bi-star-fill"></div>
                                     </div>
                                     <!-- Product price-->
-                                    <span class="text-muted text-decoration-line-through">$20.00</span>
-                                    $18.00
+                                    <span class="text-muted text-decoration-line-through">Rp 200.000,00</span>
+                                    Rp 180.000,00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -137,15 +139,15 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/660476602735b73e529edd9c201866049f59f535563777ca3c62db5d055d2763.jpg" alt="..." />
+                            <img class="card-img-top" src="https://st4.depositphotos.com/27218856/39173/i/450/depositphotos_391738070-stock-photo-close-hand-harvesting-pak-choi.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">Sale Item</h5>
                                     <!-- Product price-->
-                                    <span class="text-muted text-decoration-line-through">$50.00</span>
-                                    $25.00
+                                    <span class="text-muted text-decoration-line-through">Rp 500.000,00</span>
+                                    Rp 250.000,00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -157,7 +159,7 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                            <img class="card-img-top" src="https://st2.depositphotos.com/4449767/6822/i/450/depositphotos_68227099-stock-photo-growing-plants-without-soil.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
@@ -172,7 +174,7 @@
                                         <div class="bi-star-fill"></div>
                                     </div>
                                     <!-- Product price-->
-                                    $40.00
+                                    Rp 400.000,00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -186,15 +188,15 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                            <img class="card-img-top" src="https://st2.depositphotos.com/1594701/6385/i/450/depositphotos_63850399-stock-photo-hand-hold-coriander-planting-water.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">Sale Item</h5>
                                     <!-- Product price-->
-                                    <span class="text-muted text-decoration-line-through">$50.00</span>
-                                    $25.00
+                                    <span class="text-muted text-decoration-line-through">Rp 500.000,00</span>
+                                    Rp 250.000,00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -206,14 +208,14 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                            <img class="card-img-top" src="https://st3.depositphotos.com/3059589/12943/i/450/depositphotos_129435672-stock-photo-hydroponic-vegetable-farm.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
                                     <h5 class="fw-bolder">Fancy Product</h5>
                                     <!-- Product price-->
-                                    $120.00 - $280.00
+                                    Rp 120.000,00 - Rp 280.000,00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -227,7 +229,7 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                            <img class="card-img-top" src="https://st4.depositphotos.com/10259232/37939/i/450/depositphotos_379399212-stock-photo-ripe-young-organic-hydroponic-tomatoes.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
@@ -242,8 +244,8 @@
                                         <div class="bi-star-fill"></div>
                                     </div>
                                     <!-- Product price-->
-                                    <span class="text-muted text-decoration-line-through">$20.00</span>
-                                    $18.00
+                                    <span class="text-muted text-decoration-line-through">Rp 200.000.00</span>
+                                    Rp180.000,00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -255,7 +257,7 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                            <img class="card-img-top" src="https://st2.depositphotos.com/3447011/6867/i/600/depositphotos_68679363-stock-photo-hydroponic-vegetables-growing-in-greenhouse.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
@@ -270,7 +272,7 @@
                                         <div class="bi-star-fill"></div>
                                     </div>
                                     <!-- Product price-->
-                                    $40.00
+                                    Rp 400.000,00
                                 </div>
                             </div>
                             <!-- Product actions-->

@@ -12,8 +12,7 @@ class LoginController extends Controller
 {
     public function index()
     {
-
-        if (Auth::check()) {
+        if (auth::check()) {
             return redirect()->route('dashboard');
         }
 
@@ -49,6 +48,6 @@ class LoginController extends Controller
 
         $request->session()->regenerateToken();
 
-        return redirect()->route('landing');
+        return redirect()->route('login');
     }
 }

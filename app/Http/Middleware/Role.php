@@ -16,6 +16,7 @@ class Role
      */
     public function handle(Request $request, Closure $next, $role)
     {
+        
         $explode = explode('|', $role);
 
         foreach ($explode as $key => $value) {

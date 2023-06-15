@@ -34,6 +34,7 @@ class UserController extends Controller
             'email' => $request->email,
             'phone' => $request->phone,
             'role_id' => $request->role,
+            'image' => $request->image,
             'password' => bcrypt('password') // default password, sementara di hardcode
         ]);
 

@@ -69,4 +69,3 @@ class CategoryController extends Controller
         return redirect()->route('category.index');
     }
 }
-
