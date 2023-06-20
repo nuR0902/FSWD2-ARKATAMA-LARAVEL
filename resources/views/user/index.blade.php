@@ -26,7 +26,7 @@
                                 <tr>
                                     <td>{{ $loop->iteration }}</td>
                                     <td>
-                                        <img src="https://placehold.co/50x50" alt="avatar">
+                                    <img src="https://diskominfotik.bengkaliskab.go.id/asset/blank/assets/dist/img/avatar2.png" alt="avatar">
                                     </td>
                                     <td>{{ $user->name }}</td>
                                     <td>{{ $user->email }}</td>
